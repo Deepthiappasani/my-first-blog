@@ -25,7 +25,7 @@ SECRET_KEY = 'zd247x(ulcdt(wlsz8=4tj7hjw-b2_#&%-2bi_djgysp-k4)9o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'deepthi15302.pythonanywhere.com]
+ALLOWED_HOSTS = ['127.0.0.1', 'deepthi15302.pythonanywhere.com']
 
 
 # Application definition
